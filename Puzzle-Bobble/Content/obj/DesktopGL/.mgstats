@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/backgroundmusic.mp3","C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/bin/DesktopGL/backgroundmusic.xnb","SongProcessor","SongContent",6236196,133,7.947543
+"C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/farm-bg.jpg","C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/bin/DesktopGL/farm-bg.xnb","TextureProcessor","Texture2DContent",216744,9408085,0.8885575
+"C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/GameFont.spritefont","C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.2251429
+"C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/s-chicken.wav","C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/bin/DesktopGL/s-chicken.xnb","SoundEffectProcessor","SoundEffectContent",172110,172137,0.2949496
+"C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/Sprite.png","C:/Users/nupond/source/repos/Puzzle-Bobble/Puzzle-Bobble/Content/bin/DesktopGL/Sprite.xnb","TextureProcessor","Texture2DContent",19966,1106005,0.3969328

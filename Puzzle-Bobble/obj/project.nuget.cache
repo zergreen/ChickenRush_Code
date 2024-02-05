@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tyHbfN2cMB5YXg+O8xCg//wHxXW4V26XUo93K8NVptSm+ay4ze1dJGruIzm04L0OABamhzZliHseVo2pMSrRw==",
+  "success": true,
+  "projectFilePath": "/Users/kawhao/Downloads/OPENPG_ChickenRush/ChickenRush_Code/Puzzle-Bobble/Puzzle-Bobble.csproj",
+  "expectedPackageFiles": [
+    "/Users/kawhao/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/kawhao/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

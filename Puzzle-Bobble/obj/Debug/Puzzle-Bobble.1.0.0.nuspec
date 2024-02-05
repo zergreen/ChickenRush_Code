@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Puzzle-Bobble</id>
+    <version>1.0.0</version>
+    <authors>Puzzle-Bobble</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/backgroundmusic.ogg" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/backgroundmusic.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/farm-bg.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/GameFont.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/s-chicken.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Sprite.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\bin\Debug\net6.0\Puzzle-Bobble.runtimeconfig.json" target="lib\net6.0\Puzzle-Bobble.runtimeconfig.json" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\bin\Debug\net6.0\Puzzle-Bobble.dll" target="lib\net6.0\Puzzle-Bobble.dll" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\backgroundmusic.ogg" target="content\Content\bin\DesktopGL\Content\backgroundmusic.ogg" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\backgroundmusic.ogg" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\backgroundmusic.ogg" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\backgroundmusic.xnb" target="content\Content\bin\DesktopGL\Content\backgroundmusic.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\backgroundmusic.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\backgroundmusic.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\farm-bg.xnb" target="content\Content\bin\DesktopGL\Content\farm-bg.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\farm-bg.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\farm-bg.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\GameFont.xnb" target="content\Content\bin\DesktopGL\Content\GameFont.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\GameFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\GameFont.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\s-chicken.xnb" target="content\Content\bin\DesktopGL\Content\s-chicken.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\s-chicken.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\s-chicken.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\Sprite.xnb" target="content\Content\bin\DesktopGL\Content\Sprite.xnb" />
+    <file src="C:\Users\nupond\source\repos\Puzzle-Bobble\Puzzle-Bobble\Content\bin\DesktopGL\Content\Sprite.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Sprite.xnb" />
+  </files>
+</package>
